@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Which blog is my blog</title>
   
-  <subtitle>爱是自由意志的沉沦</subtitle>
+  <subtitle>欢迎光临(´▽`ʃ♡ƪ)</subtitle>
   <link href="https://ch2ch30h.github.io/atom.xml" rel="self"/>
   
   <link href="https://ch2ch30h.github.io/"/>
-  <updated>2022-01-04T12:11:31.780Z</updated>
+  <updated>2022-01-05T06:38:37.130Z</updated>
   <id>https://ch2ch30h.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>美化实验</title>
+    <link href="https://ch2ch30h.github.io/2022/01/05/%E4%BB%A3%E7%A0%81%E6%A1%86%E5%AE%9E%E9%AA%8C/"/>
+    <id>https://ch2ch30h.github.io/2022/01/05/%E4%BB%A3%E7%A0%81%E6%A1%86%E5%AE%9E%E9%AA%8C/</id>
+    <published>2022-01-05T03:26:00.000Z</published>
+    <updated>2022-01-05T06:38:37.130Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是一个二级标题"><a href="#这是一个二级标题" class="headerlink" title="这是一个二级标题"></a>这是一个二级标题</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">#include&lt;bits/stdc++.h&gt;</span><br><span class="line">using namespace std;</span><br><span class="line">int main()&#123;</span><br><span class="line">cout&lt;&lt;&quot;hello world&quot;;</span><br><span class="line">return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>看不懂拉倒</p><h2 id="这是第二个二级标题"><a href="#这是第二个二级标题" class="headerlink" title="这是第二个二级标题"></a>这是第二个二级标题</h2><p>干嘛</p><h3 id="三级标题（1）"><a href="#三级标题（1）" class="headerlink" title="三级标题（1）"></a>三级标题（1）</h3><p>看什么看<br>看什么看<br>看什么看</p><h3 id="三级标题（2）"><a href="#三级标题（2）" class="headerlink" title="三级标题（2）"></a>三级标题（2）</h3><p>白白</p><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><h3 id="图片1"><a href="#图片1" class="headerlink" title="图片1"></a>图片1</h3><p><img src="/img/55.png" alt="这是一张很好看的图片"></p><h3 id="图片2"><a href="#图片2" class="headerlink" title="图片2"></a>图片2</h3><p><a href="/img/55.png">这是同一张图片,只不过显示方法不同</a></p>]]></content>
+    
+    
+    <summary type="html">博客页面美化专用工具文章，请自行忽略</summary>
+    
+    
+    
+    <category term="实验" scheme="https://ch2ch30h.github.io/categories/%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+    <category term="实验" scheme="https://ch2ch30h.github.io/tags/%E5%AE%9E%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://ch2ch30h.github.io/2022/01/04/hello-world/"/>
     <id>https://ch2ch30h.github.io/2022/01/04/hello-world/</id>
     <published>2022-01-04T12:11:31.780Z</published>
-    <updated>2022-01-04T12:11:31.780Z</updated>
+    <updated>2022-01-05T03:54:09.715Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
