@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ch2ch30h.github.io/music/index.html</loc>
+    
+    <lastmod>2022-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ch2ch30h.github.io/2022/01/05/%E4%BB%A3%E7%A0%81%E6%A1%86%E5%AE%9E%E9%AA%8C/</loc>
     
     <lastmod>2022-01-05</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://ch2ch30h.github.io/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +66,7 @@
   
   <url>
     <loc>https://ch2ch30h.github.io/tags/%E5%AE%9E%E9%AA%8C/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,7 +75,7 @@
   
   <url>
     <loc>https://ch2ch30h.github.io/categories/%E5%AE%9E%E9%AA%8C/</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
